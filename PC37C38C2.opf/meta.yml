@@ -32,3 +32,8 @@ source_metadata:
       parent: Aspiration Prayers
 created_at: '2022-03-01T03:20:07.634457'
 last_modified_at: '2022-03-01T03:20:07.634459'
+statistics:
+  total_words: 3903
+  total_non_words: 260
+quality:
+  non_words_ratio: 0.07
